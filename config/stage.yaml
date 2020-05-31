@@ -1,0 +1,4 @@
+apps:
+  users:
+    name: stage-yaml
+    age: 333
